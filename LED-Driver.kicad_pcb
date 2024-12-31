@@ -3755,7 +3755,7 @@
 			(uuid "d75cec04-f2dd-476e-af0f-d862ac67e828")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/ncara/OneDrive/IoT/Tools/KiCad/RP-Pico Libraries/Pico.wrl"
+		(model "${KIPRJMOD}/Libraries/KiCad-RP-Pico/RP-Pico Libraries/Pico.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
