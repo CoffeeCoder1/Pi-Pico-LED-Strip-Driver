@@ -143,7 +143,7 @@
 		(descr "Through hole angled pin header, 1x04, 2.54mm pitch, 6mm pin length, single row")
 		(tags "Through hole angled pin header THT 1x04 2.54mm single row")
 		(property "Reference" "J1"
-			(at 4.385 -2.27 90)
+			(at -2.125 3.86 180)
 			(layer "F.SilkS")
 			(uuid "b56a7ac4-4f9a-45e3-99c0-20b97d5e1cca")
 			(effects
